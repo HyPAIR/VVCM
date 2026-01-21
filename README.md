@@ -4,7 +4,7 @@
 
 ## Usage
 
-Use stable forward kinematics algorithm to compute the object pose given robot formation and deformable sheet:
+Use a stable forward kinematics algorithm to compute the object pose given the robot formation and the deformable sheet:
 
   ```shell
   $ roslaunch vvcm_fk vvcm_test.launch 
