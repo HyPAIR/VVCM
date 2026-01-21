@@ -1,0 +1,4 @@
+<launch>
+    <!-- 设置发布节点 -->
+    <node pkg="vvcm_fk" type="VVCM_test" name="VVCM_test" output="screen"/>
+</launch>
