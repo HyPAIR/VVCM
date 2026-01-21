@@ -1,6 +1,6 @@
 # VVCM
 
- ROS package for multi-robot transporting system with a deformable sheet, use virtual variable cables model (**VVCM**) to model the system.
+ ROS package for a multi-robot transporting system with a deformable sheet, use virtual variable cables model (**VVCM**) to model the system.
 
 ## Usage
 
